@@ -1,1 +1,34 @@
+/* Style the page background */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Style the heading */
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* Style paragraphs */
+p {
+  color: #555;
+  font-size: 18px;
+}
+
+/* Style a button */
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
 
